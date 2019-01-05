@@ -46,3 +46,9 @@
 #nav a{
     color: black;
 }
+
+#left{
+    width: 800px;
+    height: 600px;
+    float: left;
+}
