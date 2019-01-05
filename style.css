@@ -52,3 +52,43 @@
     height: 600px;
     float: left;
 }
+
+#post{
+    margin: 20px;
+}
+
+.title{
+    background: black;
+    padding: 15px 10px;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.description{
+    background: #1EB72F;
+    padding: 20px;
+}
+
+#right{
+    width: 360px;
+    height: 600px;
+    padding: 20px;
+    float: left;
+}
+
+#right h2{
+    text-align: center;
+}
+
+#latest_post_group{
+    margin: 10px, 0;
+}
+
+.latest_post{
+    background: black;
+    padding: 10px 0;
+    color: aliceblue;
+    text-align: center;
+    margin: 10px 0;
+}
